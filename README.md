@@ -1,3 +1,3 @@
 # Signals
 
-## Анализ мигнальной базы MetaQuotes
+## Анализ сигнальной базы MetaQuotes
